@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92fe361c-c629-43bf-9a3c-32b3fdfb3094" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/ShoppingCart.java" afterDir="false" />
+    <list default="true" id="92fe361c-c629-43bf-9a3c-32b3fdfb3094" name="Changes" comment="Question 2.3 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/lhtest1student1219275/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/lhtest1student1219275/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +61,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707156636333</updated>
-      <workItem from="1707156637402" duration="1303000" />
+      <workItem from="1707156637402" duration="1951000" />
     </task>
+    <task id="LOCAL-00001" summary="Question 2.1 complete">
+      <option name="closed" value="true" />
+      <created>1707158080120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707158080120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Question 2.2 complete">
+      <option name="closed" value="true" />
+      <created>1707158223073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707158223073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Question 2.3 complete">
+      <option name="closed" value="true" />
+      <created>1707158471906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707158471906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Question 2.1 complete" />
+    <MESSAGE value="Question 2.2 complete" />
+    <MESSAGE value="Question 2.3 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 2.3 complete" />
   </component>
 </project>
