@@ -1,5 +1,8 @@
 package com.example.lhtest1student1219275;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class Component {
 
     private String name;
@@ -25,12 +28,17 @@ public class Component {
         }
     }
 
-    public String getManufacturer() {
-        return manufacturer;
+    public static List<String> getManufacturer() {
+        return Arrays.asList("3Com","Acer","Arctic","AMD", "Asus","Apple Inc.","Bose","Cooler Master", "Hitachi", "Intel", "Logitech", "Marvell", "Nvidia", "Qualcomm", "Samsung","Tyan","Fujitsu","MSI","Seagate","Toshiba", "Western Digital", "XTREEM");
     }
 
     public void setManufacturer(String manufacturer) {
-        this.manufacturer = manufacturer;
+        List<String> validManufacturer = getManufacturer();
+        if (validManufacturer.contains(manufacturer))
+            this.manufacturer = manufacturer;
+        else{
+            throw new IllegalArgumentException("Provided manufacturer is not in the list");
+        }
     }
 
     public double getPrice() {
@@ -38,6 +46,10 @@ public class Component {
     }
 
     public void setPrice(double price) {
-
+        if (price<=10000 && price>=0)
+            this.price = price;
+        else {
+            throw new IllegalArgumentException("Price must be in the range of 0-10000");
+        }
     }
 }
