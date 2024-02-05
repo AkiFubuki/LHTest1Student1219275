@@ -17,8 +17,12 @@ public class Component {
     }
 
     public void setName(String name) {
-        this.name = name;
-
+        if (name != null && name.length() >= 3) {
+            this.name = name;
+        } else {
+            // Throw an exception
+            throw new IllegalArgumentException("Name must be at least 3 characters long");
+        }
     }
 
     public String getManufacturer() {
