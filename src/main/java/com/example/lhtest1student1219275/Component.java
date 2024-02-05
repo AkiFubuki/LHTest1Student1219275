@@ -38,6 +38,10 @@ public class Component {
     }
 
     public void setPrice(double price) {
-        this.price = price;
+        if (price<=10000 && price>=0)
+            this.price = price;
+        else {
+            throw new IllegalArgumentException("Price must be in the range of 0-10000");
+        }
     }
 }
