@@ -21,7 +21,7 @@ public class ShoppingCart {
     }
     public String toString(){
         int num;
-        return "The cart has "+num+" components with a total price of $"+sum;
+        return "The cart has components with a total price of $"+sum;
     }
 
 }
