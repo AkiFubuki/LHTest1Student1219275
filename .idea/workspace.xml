@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92fe361c-c629-43bf-9a3c-32b3fdfb3094" name="Changes" comment="Question 2.4 complete">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/Component.java" afterDir="false" />
+    <list default="true" id="92fe361c-c629-43bf-9a3c-32b3fdfb3094" name="Changes" comment="Question 3.2 complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lhtest1student1219275/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707156636333</updated>
-      <workItem from="1707156637402" duration="2879000" />
+      <workItem from="1707156637402" duration="5305000" />
     </task>
     <task id="LOCAL-00001" summary="Question 2.1 complete">
       <option name="closed" value="true" />
@@ -103,7 +104,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707159348215</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Question 2.5 complete">
+      <option name="closed" value="true" />
+      <created>1707159839390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707159839390</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Question 3.1 complete">
+      <option name="closed" value="true" />
+      <created>1707159948123</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707159948123</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Question 3.2 complete">
+      <option name="closed" value="true" />
+      <created>1707160257360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707160257360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +139,9 @@
     <MESSAGE value="Question 2.3 complete" />
     <MESSAGE value="Question 2.2 complete" />
     <MESSAGE value="Question 2.4 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 2.4 complete" />
+    <MESSAGE value="Question 2.5 complete" />
+    <MESSAGE value="Question 3.1 complete" />
+    <MESSAGE value="Question 3.2 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 3.2 complete" />
   </component>
 </project>
