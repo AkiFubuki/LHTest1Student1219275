@@ -47,6 +47,7 @@ public class Main {
         ShoppingCart emptyCart = new ShoppingCart();
         System.out.println("\n\nEmpty Shopping Cart Table");
         System.out.printf("%n%s%n",emptyCart.getTableSummary());
+
     }
 }
 
