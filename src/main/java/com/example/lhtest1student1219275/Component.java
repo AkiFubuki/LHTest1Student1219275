@@ -1,5 +1,6 @@
 package com.example.lhtest1student1219275;
 
+import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.List;
 
@@ -51,5 +52,10 @@ public class Component {
         else {
             throw new IllegalArgumentException("Price must be in the range of 0-10000");
         }
+    }
+
+    public String toString(){
+        DecimalFormat decimalFormat = new DecimalFormat("0.00");
+        return name+" - "+manufacturer+", price: $"+decimalFormat.format(price);
     }
 }
